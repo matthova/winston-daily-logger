@@ -1,5 +1,9 @@
 {
   "name": "winston-daily-logger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthova/winston-daily-logger"
+  },
   "version": "0.0.1",
   "description": "A tool for setting up a generic daily logger with winston",
   "main": "index.js",
